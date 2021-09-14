@@ -1,4 +1,4 @@
-# Simulation of Ising Model in 3D
+# Python Simulation of Ising Model in 3D
 
 This code is used to produce Ising Model plots of specific heat capacity like the following:
 
